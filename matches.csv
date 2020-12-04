@@ -1,0 +1,757 @@
+info,match_date,venue_id,home_team_id,away_team_id,toss_winner_id,toss_decision,dl_applied,winning_team_id,kaggle_id
+Royal Challengers Bangalore vs. Kolkata Knight Riders,18/04/08,112,862,861,862,field,0,861,335982
+Kings XI Punjab vs. Chennai Super Kings,19/04/08,130,859,858,858,bat,0,858,335983
+Delhi Daredevils vs. Rajasthan Royals,19/04/08,18,860,864,864,bat,0,860,335984
+Mumbai Indians vs. Royal Challengers Bangalore,20/04/08,116,857,862,857,bat,0,862,335985
+Kolkata Knight Riders vs. Deccan Chargers,20/04/08,110,861,6148,6148,bat,0,861,335986
+Rajasthan Royals vs. Kings XI Punjab,21/04/08,172,864,859,859,bat,0,864,335987
+Deccan Chargers vs. Delhi Daredevils,22/04/08,10,6148,860,6148,bat,0,860,335988
+Chennai Super Kings vs. Mumbai Indians,23/04/08,109,858,857,857,field,0,858,335989
+Deccan Chargers vs. Rajasthan Royals,24/04/08,10,6148,864,864,field,0,864,335990
+Kings XI Punjab vs. Mumbai Indians,25/04/08,130,859,857,858,field,0,859,335991
+Royal Challengers Bangalore vs. Rajasthan Royals,26/04/08,112,862,864,864,field,0,864,335992
+Chennai Super Kings vs. Kolkata Knight Riders,26/04/08,109,858,861,861,bat,0,858,335993
+Mumbai Indians vs. Deccan Chargers,27/04/08,542,857,6148,6148,field,0,6148,335994
+Kings XI Punjab vs. Delhi Daredevils,27/04/08,130,859,860,6147,bat,0,859,335995
+Royal Challengers Bangalore vs. Chennai Super Kings,28/04/08,112,862,858,858,bat,0,858,335996
+Kolkata Knight Riders vs. Mumbai Indians,29/04/08,110,861,857,861,bat,0,857,335997
+Delhi Daredevils vs. Royal Challengers Bangalore,30/04/08,18,860,862,862,field,0,860,335998
+Deccan Chargers vs. Kings XI Punjab,01/05/08,10,6148,859,859,field,0,859,335999
+Rajasthan Royals vs. Kolkata Knight Riders,01/05/08,172,864,861,864,bat,0,864,336000
+Chennai Super Kings vs. Delhi Daredevils,02/05/08,109,858,860,859,bat,0,860,336001
+Royal Challengers Bangalore vs. Deccan Chargers,03/05/08,112,862,6148,6148,field,0,862,336034
+Kings XI Punjab vs. Kolkata Knight Riders,03/05/08,130,859,861,859,bat,0,859,336003
+Mumbai Indians vs. Delhi Daredevils,04/05/08,542,857,860,6147,field,0,857,336004
+Rajasthan Royals vs. Chennai Super Kings,04/05/08,172,864,858,858,bat,0,864,336005
+Royal Challengers Bangalore vs. Kings XI Punjab,05/05/08,112,862,859,859,field,0,859,336006
+Chennai Super Kings vs. Deccan Chargers,06/05/08,109,858,6148,6148,field,0,6148,336007
+Mumbai Indians vs. Rajasthan Royals,07/05/08,542,857,864,857,field,0,857,336008
+Delhi Daredevils vs. Chennai Super Kings,08/05/08,18,860,858,858,field,0,858,336009
+Kolkata Knight Riders vs. Royal Challengers Bangalore,08/05/08,110,861,862,861,bat,0,861,336010
+Rajasthan Royals vs. Deccan Chargers,09/05/08,172,864,6148,864,field,0,864,336011
+Chennai Super Kings vs. Kings XI Punjab,10/05/08,109,858,859,859,field,0,858,336013
+Rajasthan Royals vs. Delhi Daredevils,11/05/08,172,864,860,864,field,0,864,336015
+Deccan Chargers vs. Kolkata Knight Riders,11/05/08,10,6148,861,861,bat,0,861,336014
+Kings XI Punjab vs. Royal Challengers Bangalore,12/05/08,130,859,862,862,bat,0,859,336016
+Kolkata Knight Riders vs. Delhi Daredevils,13/05/08,110,861,860,861,bat,0,861,336017
+Mumbai Indians vs. Chennai Super Kings,14/05/08,116,857,858,857,field,0,857,336018
+Delhi Daredevils vs. Deccan Chargers,15/05/08,18,860,6148,6148,field,0,860,336020
+Mumbai Indians vs. Kolkata Knight Riders,16/05/08,116,857,861,857,field,0,857,336021
+Delhi Daredevils vs. Kings XI Punjab,17/05/08,18,860,859,6147,bat,1,859,336022
+Rajasthan Royals vs. Royal Challengers Bangalore,17/05/08,172,864,862,862,field,0,864,336023
+Kolkata Knight Riders vs. Chennai Super Kings,18/05/08,110,861,858,861,bat,1,858,336025
+Deccan Chargers vs. Mumbai Indians,18/05/08,10,6148,857,6148,field,0,857,336024
+Royal Challengers Bangalore vs. Delhi Daredevils,19/05/08,112,862,860,6147,field,0,860,336026
+Kolkata Knight Riders vs. Rajasthan Royals,20/05/08,110,861,864,864,field,0,864,336027
+Mumbai Indians vs. Kings XI Punjab,21/05/08,116,857,859,857,field,0,859,336028
+Chennai Super Kings vs. Royal Challengers Bangalore,21/05/08,109,858,862,862,bat,0,862,336029
+Kings XI Punjab vs. Deccan Chargers,23/05/08,130,859,6148,859,field,0,859,336031
+Chennai Super Kings vs. Rajasthan Royals,24/05/08,109,858,864,864,bat,0,864,336033
+Delhi Daredevils vs. Mumbai Indians,24/05/08,18,860,857,862,field,0,860,336032
+Deccan Chargers vs. Royal Challengers Bangalore,25/05/08,10,6148,862,6148,bat,0,862,336002
+Kolkata Knight Riders vs. Kings XI Punjab,25/05/08,110,861,859,859,bat,0,861,336035
+Rajasthan Royals vs. Mumbai Indians,26/05/08,172,864,857,864,field,0,864,336036
+Deccan Chargers vs. Chennai Super Kings,27/05/08,10,6148,858,6148,bat,0,858,336037
+Royal Challengers Bangalore vs. Mumbai Indians,28/05/08,112,862,857,857,field,0,857,336012
+Kings XI Punjab vs. Rajasthan Royals,28/05/08,130,859,864,864,field,0,859,336019
+Delhi Daredevils vs. Rajasthan Royals,30/05/08,116,860,864,6147,field,0,864,336038
+Chennai Super Kings vs. Kings XI Punjab,31/05/08,116,858,859,859,bat,0,858,336039
+Chennai Super Kings vs. Rajasthan Royals,01/06/08,542,858,864,864,field,0,864,336040
+Chennai Super Kings vs. Mumbai Indians,18/04/09,50,858,857,858,field,0,857,392181
+Royal Challengers Bangalore vs. Rajasthan Royals,18/04/09,50,862,864,862,bat,0,862,392182
+Delhi Daredevils vs. Kings XI Punjab,19/04/09,50,860,859,6147,field,1,860,392183
+Deccan Chargers vs. Kolkata Knight Riders,19/04/09,50,6148,861,861,bat,0,6148,392184
+Royal Challengers Bangalore vs. Chennai Super Kings,20/04/09,49,862,858,858,bat,0,858,392185
+Kings XI Punjab vs. Kolkata Knight Riders,21/04/09,48,859,861,861,field,1,861,392186
+Royal Challengers Bangalore vs. Deccan Chargers,22/04/09,50,862,6148,864,bat,0,6148,392188
+Kolkata Knight Riders vs. Rajasthan Royals,23/04/09,50,861,864,861,field,0,864,392190
+Chennai Super Kings vs. Delhi Daredevils,23/04/09,48,858,860,6147,bat,0,860,392189
+Royal Challengers Bangalore vs. Kings XI Punjab,24/04/09,48,862,859,862,bat,0,859,392191
+Deccan Chargers vs. Mumbai Indians,25/04/09,48,6148,857,6148,bat,0,6148,392192
+Kings XI Punjab vs. Rajasthan Royals,26/04/09,50,859,864,859,bat,0,859,392195
+Royal Challengers Bangalore vs. Delhi Daredevils,26/04/09,49,862,860,862,bat,0,860,392194
+Kolkata Knight Riders vs. Mumbai Indians,27/04/09,49,861,857,857,bat,0,857,392197
+Chennai Super Kings vs. Deccan Chargers,27/04/09,48,858,6148,6148,field,0,6148,392196
+Delhi Daredevils vs. Rajasthan Royals,28/04/09,126,860,864,6147,bat,0,864,392198
+Royal Challengers Bangalore vs. Kolkata Knight Riders,29/04/09,48,862,861,862,bat,0,862,392199
+Kings XI Punjab vs. Mumbai Indians,29/04/09,48,859,857,859,bat,0,859,392200
+Chennai Super Kings vs. Rajasthan Royals,30/04/09,126,858,864,864,field,0,858,392202
+Deccan Chargers vs. Delhi Daredevils,30/04/09,126,6148,860,6147,field,0,860,392201
+Kolkata Knight Riders vs. Mumbai Indians,01/05/09,40,861,857,857,bat,0,857,392203
+Royal Challengers Bangalore vs. Kings XI Punjab,01/05/09,48,862,859,862,bat,0,862,392204
+Chennai Super Kings vs. Delhi Daredevils,02/05/09,51,858,860,6147,field,0,858,392206
+Deccan Chargers vs. Rajasthan Royals,02/05/09,49,6148,864,6148,bat,0,864,392205
+Royal Challengers Bangalore vs. Mumbai Indians,03/05/09,51,862,857,857,bat,0,862,392208
+Kings XI Punjab vs. Kolkata Knight Riders,03/05/09,49,859,861,861,bat,0,859,392207
+Chennai Super Kings vs. Deccan Chargers,04/05/09,40,858,6148,858,bat,0,858,392209
+Delhi Daredevils vs. Kolkata Knight Riders,05/05/09,48,860,861,861,bat,0,860,392211
+Kings XI Punjab vs. Rajasthan Royals,05/05/09,48,859,864,859,field,0,864,392210
+Deccan Chargers vs. Mumbai Indians,06/05/09,126,6148,857,6148,bat,0,6148,392212
+Royal Challengers Bangalore vs. Rajasthan Royals,07/05/09,126,862,864,864,field,0,864,392213
+Chennai Super Kings vs. Kings XI Punjab,07/05/09,126,858,859,858,bat,1,858,392214
+Delhi Daredevils vs. Mumbai Indians,08/05/09,40,860,857,857,bat,0,860,392215
+Chennai Super Kings vs. Rajasthan Royals,09/05/09,38,858,864,864,bat,0,858,392217
+Deccan Chargers vs. Kings XI Punjab,09/05/09,38,6148,859,859,field,0,859,392216
+Royal Challengers Bangalore vs. Mumbai Indians,10/05/09,49,862,857,857,bat,0,857,392218
+Delhi Daredevils vs. Kolkata Knight Riders,10/05/09,51,860,861,6147,field,0,860,392219
+Deccan Chargers vs. Rajasthan Royals,11/05/09,38,6148,864,858,bat,0,6148,392220
+Royal Challengers Bangalore vs. Kolkata Knight Riders,12/05/09,126,862,861,862,field,0,862,392221
+Kings XI Punjab vs. Mumbai Indians,12/05/09,126,859,857,859,bat,0,857,392222
+Deccan Chargers vs. Delhi Daredevils,13/05/09,48,6148,860,6148,field,0,860,392223
+Mumbai Indians vs. Rajasthan Royals,14/05/09,48,857,864,864,bat,0,864,392225
+Royal Challengers Bangalore vs. Chennai Super Kings,14/05/09,48,862,858,858,bat,0,862,392224
+Delhi Daredevils vs. Kings XI Punjab,15/05/09,37,860,859,859,field,0,859,392226
+Deccan Chargers vs. Kolkata Knight Riders,16/05/09,51,6148,861,6148,field,0,6148,392228
+Chennai Super Kings vs. Mumbai Indians,16/05/09,49,858,857,857,bat,0,858,392227
+Delhi Daredevils vs. Rajasthan Royals,17/05/09,37,860,864,6147,bat,0,860,392230
+Deccan Chargers vs. Kings XI Punjab,17/05/09,51,6148,859,6148,field,0,859,392229
+Chennai Super Kings vs. Kolkata Knight Riders,18/05/09,126,858,861,858,bat,0,861,392231
+Royal Challengers Bangalore vs. Delhi Daredevils,19/05/09,51,862,860,6147,bat,0,862,392232
+Chennai Super Kings vs. Kings XI Punjab,20/05/09,48,858,859,858,bat,0,858,392234
+Kolkata Knight Riders vs. Rajasthan Royals,20/05/09,48,861,864,861,field,0,861,392233
+Royal Challengers Bangalore vs. Deccan Chargers,21/05/09,126,862,6148,862,bat,0,862,392236
+Delhi Daredevils vs. Mumbai Indians,21/05/09,126,860,857,6147,field,0,860,392235
+Delhi Daredevils vs. Deccan Chargers,22/05/09,126,860,6148,6148,field,0,6148,392237
+Royal Challengers Bangalore vs. Chennai Super Kings,23/05/09,51,862,858,862,field,0,862,392238
+Royal Challengers Bangalore vs. Deccan Chargers,24/05/09,51,862,6148,862,field,0,6148,392239
+Deccan Chargers vs. Kolkata Knight Riders,12/03/10,542,6148,861,6148,field,0,861,419106
+Kings XI Punjab vs. Delhi Daredevils,13/03/10,130,859,860,6147,field,0,860,419108
+Mumbai Indians vs. Rajasthan Royals,13/03/10,162,857,864,857,bat,0,857,419107
+Kolkata Knight Riders vs. Royal Challengers Bangalore,14/03/10,110,861,862,861,field,0,861,419109
+Chennai Super Kings vs. Deccan Chargers,14/03/10,109,858,6148,6148,bat,0,6148,419110
+Rajasthan Royals vs. Delhi Daredevils,15/03/10,272,864,860,6147,field,0,860,419111
+Royal Challengers Bangalore vs. Kings XI Punjab,16/03/10,112,862,859,859,bat,0,862,419112
+Kolkata Knight Riders vs. Chennai Super Kings,16/03/10,110,861,858,858,bat,0,858,419113
+Delhi Daredevils vs. Mumbai Indians,17/03/10,18,860,857,6147,field,0,857,419114
+Royal Challengers Bangalore vs. Rajasthan Royals,18/03/10,112,862,864,862,field,0,862,419115
+Delhi Daredevils vs. Chennai Super Kings,19/03/10,18,860,858,6147,bat,0,858,419116
+Deccan Chargers vs. Kings XI Punjab,19/03/10,132,6148,859,859,field,0,6148,419117
+Mumbai Indians vs. Royal Challengers Bangalore,20/03/10,162,857,862,857,bat,0,862,419119
+Rajasthan Royals vs. Kolkata Knight Riders,20/03/10,272,864,861,864,bat,0,864,419118
+Chennai Super Kings vs. Kings XI Punjab,21/03/10,109,858,859,858,field,0,859,419121
+Deccan Chargers vs. Delhi Daredevils,21/03/10,132,6148,860,6148,bat,0,6148,419120
+Mumbai Indians vs. Kolkata Knight Riders,22/03/10,162,857,861,861,bat,0,857,419122
+Royal Challengers Bangalore vs. Chennai Super Kings,23/03/10,112,862,858,858,field,0,862,419123
+Kings XI Punjab vs. Rajasthan Royals,24/03/10,130,859,864,859,field,0,864,419124
+Royal Challengers Bangalore vs. Delhi Daredevils,25/03/10,112,862,860,859,field,0,860,419128
+Mumbai Indians vs. Chennai Super Kings,25/03/10,162,857,858,857,field,0,857,419125
+Rajasthan Royals vs. Deccan Chargers,26/03/10,272,864,6148,6148,bat,0,864,419126
+Kings XI Punjab vs. Kolkata Knight Riders,27/03/10,130,859,861,861,bat,0,861,419127
+Deccan Chargers vs. Mumbai Indians,28/03/10,542,6148,857,861,field,0,857,419130
+Rajasthan Royals vs. Chennai Super Kings,28/03/10,272,864,858,864,bat,0,864,419129
+Delhi Daredevils vs. Kolkata Knight Riders,29/03/10,18,860,861,6147,bat,0,860,419131
+Mumbai Indians vs. Kings XI Punjab,30/03/10,162,857,859,857,field,0,857,419132
+Chennai Super Kings vs. Royal Challengers Bangalore,31/03/10,109,858,862,862,bat,0,858,419133
+Delhi Daredevils vs. Rajasthan Royals,31/03/10,18,860,864,6147,bat,0,860,419134
+Kolkata Knight Riders vs. Deccan Chargers,01/04/10,110,861,6148,861,bat,0,861,419135
+Kings XI Punjab vs. Royal Challengers Bangalore,02/04/10,130,859,862,859,bat,0,862,419136
+Chennai Super Kings vs. Rajasthan Royals,03/04/10,109,858,864,858,bat,0,858,419137
+Mumbai Indians vs. Deccan Chargers,03/04/10,162,857,6148,857,bat,0,857,419138
+Kolkata Knight Riders vs. Kings XI Punjab,04/04/10,110,861,859,861,bat,0,859,419139
+Delhi Daredevils vs. Royal Challengers Bangalore,04/04/10,18,860,862,6147,bat,0,860,419140
+Deccan Chargers vs. Rajasthan Royals,05/04/10,113,6148,864,864,bat,0,864,419141
+Chennai Super Kings vs. Mumbai Indians,06/04/10,109,858,857,858,bat,0,858,419142
+Kolkata Knight Riders vs. Delhi Daredevils,07/04/10,110,861,860,861,bat,0,861,419144
+Rajasthan Royals vs. Kings XI Punjab,07/04/10,172,864,859,859,bat,0,864,419143
+Royal Challengers Bangalore vs. Deccan Chargers,08/04/10,112,862,6148,6148,field,0,6148,419145
+Kings XI Punjab vs. Mumbai Indians,09/04/10,130,859,857,857,bat,0,859,419146
+Deccan Chargers vs. Chennai Super Kings,10/04/10,113,6148,858,858,bat,0,6148,419147
+Royal Challengers Bangalore vs. Kolkata Knight Riders,10/04/10,112,862,861,862,field,0,862,419148
+Rajasthan Royals vs. Mumbai Indians,11/04/10,172,864,857,864,field,0,857,419150
+Delhi Daredevils vs. Kings XI Punjab,11/04/10,18,860,859,6147,bat,0,859,419149
+Deccan Chargers vs. Royal Challengers Bangalore,12/04/10,113,6148,862,860,field,0,6148,419151
+Mumbai Indians vs. Delhi Daredevils,13/04/10,162,857,860,860,bat,0,857,419152
+Chennai Super Kings vs. Kolkata Knight Riders,13/04/10,109,858,861,861,bat,0,858,419153
+Rajasthan Royals vs. Royal Challengers Bangalore,14/04/10,172,864,862,864,bat,0,862,419154
+Chennai Super Kings vs. Delhi Daredevils,15/04/10,109,858,860,6145,bat,0,860,419155
+Kings XI Punjab vs. Deccan Chargers,16/04/10,129,859,6148,6148,field,0,6148,419156
+Royal Challengers Bangalore vs. Mumbai Indians,17/04/10,112,862,857,862,field,0,857,419157
+Kolkata Knight Riders vs. Rajasthan Royals,17/04/10,110,861,864,864,bat,0,861,419158
+Kings XI Punjab vs. Chennai Super Kings,18/04/10,129,859,858,858,field,0,858,419159
+Delhi Daredevils vs. Deccan Chargers,18/04/10,18,860,6148,6148,bat,0,6148,419160
+Kolkata Knight Riders vs. Mumbai Indians,19/04/10,110,861,857,861,bat,0,861,419161
+Royal Challengers Bangalore vs. Mumbai Indians,21/04/10,542,862,857,6145,bat,0,857,419162
+Chennai Super Kings vs. Deccan Chargers,22/04/10,542,858,6148,858,bat,0,858,419163
+Royal Challengers Bangalore vs. Deccan Chargers,24/04/10,542,862,6148,6148,bat,0,862,419164
+Chennai Super Kings vs. Mumbai Indians,25/04/10,542,858,857,858,bat,0,858,419165
+Chennai Super Kings vs. Kolkata Knight Riders,08/04/11,109,858,861,858,bat,0,858,501198
+Kochi Tuskers Kerala vs. Royal Challengers Bangalore,09/04/11,274,6143,862,6143,bat,0,862,501200
+Deccan Chargers vs. Rajasthan Royals,09/04/11,10,6148,864,864,field,0,864,501199
+Delhi Daredevils vs. Mumbai Indians,10/04/11,18,860,857,6147,bat,0,857,501201
+Pune Warriors vs. Kings XI Punjab,10/04/11,542,6146,859,859,bat,0,6146,501202
+Kolkata Knight Riders vs. Deccan Chargers,11/04/11,110,861,6148,861,bat,0,861,501203
+Royal Challengers Bangalore vs. Mumbai Indians,12/04/11,112,862,857,857,field,0,857,501205
+Rajasthan Royals vs. Delhi Daredevils,12/04/11,172,864,860,6147,bat,0,864,501204
+Pune Warriors vs. Kochi Tuskers Kerala,13/04/11,542,6146,6143,6143,bat,0,6146,501207
+Kings XI Punjab vs. Chennai Super Kings,13/04/11,130,859,858,859,field,0,859,501206
+Deccan Chargers vs. Royal Challengers Bangalore,14/04/11,10,6148,862,862,field,0,6148,501208
+Mumbai Indians vs. Kochi Tuskers Kerala,15/04/11,116,857,6143,861,field,0,6143,501210
+Rajasthan Royals vs. Kolkata Knight Riders,15/04/11,172,864,861,861,field,0,861,501209
+Deccan Chargers vs. Kings XI Punjab,16/04/11,10,6148,859,859,field,0,859,501212
+Chennai Super Kings vs. Royal Challengers Bangalore,16/04/11,109,858,862,858,bat,0,858,501211
+Kolkata Knight Riders vs. Rajasthan Royals,17/04/11,110,861,864,862,field,0,861,501214
+Pune Warriors vs. Delhi Daredevils,17/04/11,542,6146,860,6147,field,0,860,501213
+Kochi Tuskers Kerala vs. Chennai Super Kings,18/04/11,274,6143,858,6143,field,1,6143,501215
+Delhi Daredevils vs. Deccan Chargers,19/04/11,18,860,6148,6148,bat,0,6148,501216
+Mumbai Indians vs. Pune Warriors,20/04/11,116,857,6146,6146,bat,0,857,501218
+Kolkata Knight Riders vs. Kochi Tuskers Kerala,20/04/11,110,861,6143,861,field,0,6143,501219
+Kings XI Punjab vs. Rajasthan Royals,21/04/11,130,859,864,864,field,0,859,501220
+Kolkata Knight Riders vs. Royal Challengers Bangalore,22/04/11,110,861,862,860,field,0,862,501222
+Mumbai Indians vs. Chennai Super Kings,22/04/11,116,857,858,858,field,0,857,501221
+Delhi Daredevils vs. Kings XI Punjab,23/04/11,18,860,859,859,field,0,860,501223
+Rajasthan Royals vs. Kochi Tuskers Kerala,24/04/11,172,864,6143,864,field,0,864,501225
+Deccan Chargers vs. Mumbai Indians,24/04/11,10,6148,857,6148,field,0,857,501224
+Chennai Super Kings vs. Pune Warriors,25/04/11,109,858,6146,6146,field,0,858,501226
+Delhi Daredevils vs. Royal Challengers Bangalore,26/04/11,18,860,862,862,field,0,862,501227
+Kochi Tuskers Kerala vs. Deccan Chargers,27/04/11,274,6143,6148,6143,field,0,6148,501229
+Pune Warriors vs. Chennai Super Kings,27/04/11,542,6146,858,6146,bat,0,858,501228
+Delhi Daredevils vs. Kolkata Knight Riders,28/04/11,18,860,861,6147,field,0,861,501230
+Rajasthan Royals vs. Mumbai Indians,29/04/11,172,864,857,864,field,0,864,501231
+Royal Challengers Bangalore vs. Pune Warriors,29/04/11,112,862,6146,6146,field,0,862,501232
+Kolkata Knight Riders vs. Kings XI Punjab,30/04/11,110,861,859,862,field,0,861,501234
+Kochi Tuskers Kerala vs. Delhi Daredevils,30/04/11,274,6143,860,6147,bat,0,860,501233
+Rajasthan Royals vs. Pune Warriors,01/05/11,172,864,6146,864,field,0,864,501235
+Chennai Super Kings vs. Deccan Chargers,01/05/11,109,858,6148,858,bat,0,858,501236
+Mumbai Indians vs. Kings XI Punjab,02/05/11,116,857,859,859,field,0,857,501237
+Delhi Daredevils vs. Kochi Tuskers Kerala,02/05/11,18,860,6143,6143,field,0,6143,501238
+Deccan Chargers vs. Kolkata Knight Riders,03/05/11,10,6148,861,6148,field,0,861,501239
+Pune Warriors vs. Mumbai Indians,04/05/11,542,6146,857,6146,field,0,857,501241
+Chennai Super Kings vs. Rajasthan Royals,04/05/11,109,858,864,864,bat,0,858,501240
+Deccan Chargers vs. Delhi Daredevils,05/05/11,10,6148,860,6147,field,0,860,501243
+Kochi Tuskers Kerala vs. Kolkata Knight Riders,05/05/11,274,6143,861,861,field,0,6143,501242
+Royal Challengers Bangalore vs. Kings XI Punjab,06/05/11,112,862,859,859,field,0,862,501244
+Kolkata Knight Riders vs. Chennai Super Kings,07/05/11,110,861,858,858,bat,1,861,501245
+Mumbai Indians vs. Delhi Daredevils,07/05/11,116,857,860,6147,field,0,857,501246
+Kings XI Punjab vs. Pune Warriors,08/05/11,130,859,6146,859,bat,0,6146,501248
+Royal Challengers Bangalore vs. Kochi Tuskers Kerala,08/05/11,112,862,6143,6143,bat,0,862,501247
+Rajasthan Royals vs. Chennai Super Kings,09/05/11,172,864,858,864,field,0,858,501249
+Kings XI Punjab vs. Mumbai Indians,10/05/11,130,859,857,857,field,0,859,501251
+Deccan Chargers vs. Pune Warriors,10/05/11,10,6148,6146,6148,bat,0,6146,501250
+Rajasthan Royals vs. Royal Challengers Bangalore,11/05/11,172,864,862,862,field,0,862,501252
+Chennai Super Kings vs. Delhi Daredevils,12/05/11,109,858,860,858,bat,0,858,501253
+Kochi Tuskers Kerala vs. Kings XI Punjab,13/05/11,111,6143,859,859,field,0,859,501254
+Mumbai Indians vs. Deccan Chargers,14/05/11,116,857,6148,6148,bat,0,6148,501256
+Royal Challengers Bangalore vs. Kolkata Knight Riders,14/05/11,112,862,861,862,field,1,862,501255
+Kings XI Punjab vs. Delhi Daredevils,15/05/11,129,859,860,858,field,0,859,501257
+Kochi Tuskers Kerala vs. Rajasthan Royals,15/05/11,111,6143,864,6143,field,0,6143,501258
+Pune Warriors vs. Deccan Chargers,16/05/11,542,6146,6148,6148,field,0,6148,501259
+Kings XI Punjab vs. Royal Challengers Bangalore,17/05/11,129,859,862,859,bat,0,859,501260
+Chennai Super Kings vs. Kochi Tuskers Kerala,18/05/11,109,858,6143,858,bat,0,858,501261
+Pune Warriors vs. Kolkata Knight Riders,19/05/11,542,6146,861,861,field,0,861,501262
+Mumbai Indians vs. Rajasthan Royals,20/05/11,116,857,864,857,bat,0,864,501263
+Delhi Daredevils vs. Pune Warriors,21/05/11,18,860,6146,860,bat,0,,501265
+Kings XI Punjab vs. Deccan Chargers,21/05/11,129,859,6148,859,field,0,6148,501264
+Kolkata Knight Riders vs. Mumbai Indians,22/05/11,110,861,857,857,field,0,857,501267
+Royal Challengers Bangalore vs. Chennai Super Kings,22/05/11,112,862,858,862,field,0,862,501266
+Royal Challengers Bangalore vs. Chennai Super Kings,24/05/11,116,862,858,858,field,0,858,501268
+Mumbai Indians vs. Kolkata Knight Riders,25/05/11,116,857,861,857,field,0,857,501269
+Royal Challengers Bangalore vs. Mumbai Indians,27/05/11,109,862,857,857,field,0,862,501270
+Chennai Super Kings vs. Royal Challengers Bangalore,28/05/11,109,858,862,858,bat,0,858,501271
+Chennai Super Kings vs. Mumbai Indians,04/04/12,109,858,857,857,field,0,857,548306
+Kolkata Knight Riders vs. Delhi Daredevils,05/04/12,110,861,860,6147,field,0,860,548307
+Mumbai Indians vs. Pune Warriors,06/04/12,116,857,6146,857,field,0,6146,548308
+Rajasthan Royals vs. Kings XI Punjab,06/04/12,172,864,859,859,field,0,864,548309
+Royal Challengers Bangalore vs. Delhi Daredevils,07/04/12,112,862,860,6147,field,0,862,548310
+Deccan Chargers vs. Chennai Super Kings,07/04/12,131,6148,858,6148,field,0,858,548311
+Pune Warriors vs. Kings XI Punjab,08/04/12,117,6146,859,6146,bat,0,6146,548313
+Rajasthan Royals vs. Kolkata Knight Riders,08/04/12,172,864,861,861,field,0,864,548312
+Deccan Chargers vs. Mumbai Indians,09/04/12,131,6148,857,6148,bat,0,857,548314
+Delhi Daredevils vs. Chennai Super Kings,10/04/12,18,860,858,864,field,0,860,548316
+Royal Challengers Bangalore vs. Kolkata Knight Riders,10/04/12,112,862,861,862,field,0,861,548315
+Mumbai Indians vs. Rajasthan Royals,11/04/12,116,857,864,864,field,0,857,548317
+Kings XI Punjab vs. Pune Warriors,12/04/12,130,859,6146,859,field,0,859,548319
+Chennai Super Kings vs. Royal Challengers Bangalore,12/04/12,109,858,862,862,bat,0,858,548318
+Kolkata Knight Riders vs. Rajasthan Royals,13/04/12,110,861,864,864,bat,0,861,548320
+Pune Warriors vs. Chennai Super Kings,14/04/12,117,6146,858,858,bat,0,6146,548322
+Royal Challengers Bangalore vs. Rajasthan Royals,15/04/12,112,862,864,864,bat,0,864,548324
+Kolkata Knight Riders vs. Kings XI Punjab,15/04/12,110,861,859,861,field,0,859,548323
+Mumbai Indians vs. Delhi Daredevils,16/04/12,116,857,860,6147,field,0,860,548325
+Royal Challengers Bangalore vs. Pune Warriors,17/04/12,112,862,6146,862,bat,0,862,548327
+Rajasthan Royals vs. Deccan Chargers,17/04/12,172,864,6148,6148,bat,0,864,548326
+Kings XI Punjab vs. Kolkata Knight Riders,18/04/12,130,859,861,859,bat,0,861,548328
+Chennai Super Kings vs. Pune Warriors,19/04/12,109,858,6146,6146,field,0,858,548330
+Delhi Daredevils vs. Deccan Chargers,19/04/12,18,860,6148,6148,bat,0,860,548321
+Kings XI Punjab vs. Royal Challengers Bangalore,20/04/12,130,859,862,862,field,0,862,548331
+Delhi Daredevils vs. Pune Warriors,21/04/12,18,860,6146,6147,field,0,6146,548333
+Chennai Super Kings vs. Rajasthan Royals,21/04/12,109,858,864,864,bat,0,858,548332
+Deccan Chargers vs. Kolkata Knight Riders,22/04/12,132,6148,861,861,field,0,861,548335
+Mumbai Indians vs. Kings XI Punjab,22/04/12,116,857,859,857,bat,0,859,548334
+Rajasthan Royals vs. Royal Challengers Bangalore,23/04/12,172,864,862,864,field,0,862,548336
+Pune Warriors vs. Delhi Daredevils,24/04/12,117,6146,860,6146,bat,0,860,548337
+Kings XI Punjab vs. Mumbai Indians,25/04/12,130,859,857,859,bat,0,857,548339
+Pune Warriors vs. Deccan Chargers,26/04/12,117,6146,6148,6148,bat,0,6148,548341
+Delhi Daredevils vs. Mumbai Indians,27/04/12,18,860,857,857,field,0,860,548342
+Kolkata Knight Riders vs. Royal Challengers Bangalore,28/04/12,110,861,862,861,bat,0,861,548344
+Chennai Super Kings vs. Kings XI Punjab,28/04/12,109,858,859,859,bat,0,859,548343
+Mumbai Indians vs. Deccan Chargers,29/04/12,116,857,6148,857,field,0,857,548346
+Delhi Daredevils vs. Rajasthan Royals,29/04/12,18,860,864,6147,bat,0,860,548345
+Chennai Super Kings vs. Kolkata Knight Riders,30/04/12,109,858,861,858,bat,0,861,548347
+Rajasthan Royals vs. Delhi Daredevils,01/05/12,172,864,860,864,bat,0,860,548349
+Deccan Chargers vs. Pune Warriors,01/05/12,132,6148,6146,6148,bat,0,6148,548348
+Royal Challengers Bangalore vs. Kings XI Punjab,02/05/12,112,862,859,859,field,0,859,548350
+Pune Warriors vs. Mumbai Indians,03/05/12,117,6146,857,857,bat,0,857,548351
+Chennai Super Kings vs. Deccan Chargers,04/05/12,109,858,6148,858,bat,0,858,548352
+Kings XI Punjab vs. Rajasthan Royals,05/05/12,130,859,864,864,bat,0,864,548354
+Kolkata Knight Riders vs. Pune Warriors,05/05/12,110,861,6146,861,bat,0,861,548353
+Mumbai Indians vs. Chennai Super Kings,06/05/12,116,857,858,857,field,0,857,548355
+Royal Challengers Bangalore vs. Deccan Chargers,06/05/12,112,862,6148,862,field,0,862,548356
+Delhi Daredevils vs. Kolkata Knight Riders,07/05/12,18,860,861,6147,bat,0,861,548357
+Pune Warriors vs. Rajasthan Royals,08/05/12,117,6146,864,6146,bat,0,864,548358
+Deccan Chargers vs. Kings XI Punjab,08/05/12,10,6148,859,6148,field,0,859,548359
+Mumbai Indians vs. Royal Challengers Bangalore,09/05/12,116,857,862,862,field,0,862,548360
+Deccan Chargers vs. Delhi Daredevils,10/05/12,10,6148,860,6148,bat,0,860,548329
+Rajasthan Royals vs. Chennai Super Kings,10/05/12,172,864,858,858,field,0,858,548361
+Pune Warriors vs. Royal Challengers Bangalore,11/05/12,117,6146,862,6146,field,0,862,548362
+Kolkata Knight Riders vs. Mumbai Indians,12/05/12,110,861,857,857,bat,0,857,548363
+Chennai Super Kings vs. Delhi Daredevils,12/05/12,109,858,860,858,field,0,858,548364
+Rajasthan Royals vs. Pune Warriors,13/05/12,172,864,6146,864,bat,0,864,548365
+Kings XI Punjab vs. Deccan Chargers,13/05/12,130,859,6148,6148,bat,0,859,548366
+Royal Challengers Bangalore vs. Mumbai Indians,14/05/12,112,862,857,857,field,0,857,548367
+Kolkata Knight Riders vs. Chennai Super Kings,14/05/12,110,861,858,858,field,0,858,548368
+Delhi Daredevils vs. Kings XI Punjab,15/05/12,18,860,859,859,bat,0,860,548369
+Mumbai Indians vs. Kolkata Knight Riders,16/05/12,116,857,861,857,field,0,861,548370
+Kings XI Punjab vs. Chennai Super Kings,17/05/12,129,859,858,862,field,0,859,548371
+Delhi Daredevils vs. Royal Challengers Bangalore,17/05/12,18,860,862,6147,field,0,862,548372
+Deccan Chargers vs. Rajasthan Royals,18/05/12,10,6148,864,6145,bat,0,6148,548373
+Pune Warriors vs. Kolkata Knight Riders,19/05/12,117,6146,861,861,bat,0,861,548375
+Kings XI Punjab vs. Delhi Daredevils,19/05/12,129,859,860,6147,field,0,860,548374
+Rajasthan Royals vs. Mumbai Indians,20/05/12,172,864,857,864,bat,0,857,548377
+Deccan Chargers vs. Royal Challengers Bangalore,20/05/12,10,6148,862,862,field,0,6148,548376
+Delhi Daredevils vs. Kolkata Knight Riders,22/05/12,117,860,861,861,bat,0,861,548378
+Chennai Super Kings vs. Mumbai Indians,23/05/12,112,858,857,6145,field,0,858,548379
+Delhi Daredevils vs. Chennai Super Kings,25/05/12,109,860,858,6147,field,0,858,548380
+Kolkata Knight Riders vs. Chennai Super Kings,27/05/12,109,861,858,858,bat,0,861,548381
+Kolkata Knight Riders vs. Delhi Daredevils,03/04/13,110,861,860,861,field,0,861,597998
+Royal Challengers Bangalore vs. Mumbai Indians,04/04/13,112,862,857,857,field,0,862,597999
+Sunrisers Hyderabad vs. Pune Warriors,05/04/13,10,863,6146,6146,field,0,863,598000
+Chennai Super Kings vs. Mumbai Indians,06/04/13,109,858,857,857,bat,0,857,598002
+Delhi Daredevils vs. Rajasthan Royals,06/04/13,18,860,864,864,bat,0,864,598001
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,07/04/13,10,863,862,862,bat,0,863,598004
+Pune Warriors vs. Kings XI Punjab,07/04/13,117,6146,859,6146,bat,0,859,598003
+Rajasthan Royals vs. Kolkata Knight Riders,08/04/13,172,864,861,861,field,0,864,598005
+Mumbai Indians vs. Delhi Daredevils,09/04/13,116,857,860,857,bat,0,857,598006
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,09/04/13,112,862,863,863,bat,0,862,598048
+Kings XI Punjab vs. Chennai Super Kings,10/04/13,130,859,858,858,field,0,858,598007
+Royal Challengers Bangalore vs. Kolkata Knight Riders,11/04/13,112,862,861,862,field,0,862,598008
+Pune Warriors vs. Rajasthan Royals,11/04/13,117,6146,864,864,bat,0,6146,598009
+Delhi Daredevils vs. Sunrisers Hyderabad,12/04/13,18,860,863,6147,bat,0,863,598010
+Mumbai Indians vs. Pune Warriors,13/04/13,116,857,6146,857,bat,0,857,598011
+Chennai Super Kings vs. Royal Challengers Bangalore,13/04/13,109,858,862,858,field,0,858,598012
+Rajasthan Royals vs. Kings XI Punjab,14/04/13,172,864,859,864,field,0,864,598014
+Kolkata Knight Riders vs. Sunrisers Hyderabad,14/04/13,110,861,863,861,bat,0,861,598013
+Chennai Super Kings vs. Pune Warriors,15/04/13,109,858,6146,6146,bat,0,6146,598015
+Royal Challengers Bangalore vs. Delhi Daredevils,16/04/13,112,862,860,862,field,0,862,598017
+Kings XI Punjab vs. Kolkata Knight Riders,16/04/13,130,859,861,861,field,0,859,598016
+Pune Warriors vs. Sunrisers Hyderabad,17/04/13,117,6146,863,864,field,0,863,598018
+Rajasthan Royals vs. Mumbai Indians,17/04/13,172,864,857,864,bat,0,864,598019
+Delhi Daredevils vs. Chennai Super Kings,18/04/13,18,860,858,858,bat,0,858,598020
+Sunrisers Hyderabad vs. Kings XI Punjab,19/04/13,10,863,859,859,bat,0,863,598021
+Royal Challengers Bangalore vs. Rajasthan Royals,20/04/13,112,862,864,862,field,0,862,598023
+Kolkata Knight Riders vs. Chennai Super Kings,20/04/13,110,861,858,861,bat,0,858,598022
+Delhi Daredevils vs. Mumbai Indians,21/04/13,18,860,857,857,bat,0,860,598024
+Kings XI Punjab vs. Pune Warriors,21/04/13,130,859,6146,859,field,0,859,598025
+Chennai Super Kings vs. Rajasthan Royals,22/04/13,109,858,864,864,bat,0,858,598026
+Delhi Daredevils vs. Kings XI Punjab,23/04/13,18,860,859,859,field,0,859,598059
+Royal Challengers Bangalore vs. Pune Warriors,23/04/13,112,862,6146,6146,field,0,862,598027
+Kolkata Knight Riders vs. Mumbai Indians,24/04/13,110,861,857,861,bat,0,857,598029
+Chennai Super Kings vs. Sunrisers Hyderabad,25/04/13,109,858,863,863,bat,0,858,598030
+Kolkata Knight Riders vs. Kings XI Punjab,26/04/13,110,861,859,859,bat,0,861,598031
+Mumbai Indians vs. Royal Challengers Bangalore,27/04/13,116,857,862,857,bat,0,857,598033
+Rajasthan Royals vs. Sunrisers Hyderabad,27/04/13,172,864,863,863,bat,0,864,598032
+Delhi Daredevils vs. Pune Warriors,28/04/13,426,860,6146,6146,field,0,860,598035
+Chennai Super Kings vs. Kolkata Knight Riders,28/04/13,109,858,861,861,field,0,858,598034
+Mumbai Indians vs. Kings XI Punjab,29/04/13,116,857,859,857,bat,0,857,598037
+Rajasthan Royals vs. Royal Challengers Bangalore,29/04/13,172,864,862,864,field,0,864,598036
+Pune Warriors vs. Chennai Super Kings,30/04/13,117,6146,858,858,bat,0,858,598038
+Sunrisers Hyderabad vs. Mumbai Indians,01/05/13,10,863,857,857,bat,0,863,598039
+Delhi Daredevils vs. Kolkata Knight Riders,01/05/13,426,860,861,861,bat,0,860,598040
+Pune Warriors vs. Royal Challengers Bangalore,02/05/13,117,6146,862,862,bat,0,862,598042
+Chennai Super Kings vs. Kings XI Punjab,02/05/13,109,858,859,858,bat,0,858,598041
+Kolkata Knight Riders vs. Rajasthan Royals,03/05/13,110,861,864,864,bat,0,861,598043
+Sunrisers Hyderabad vs. Delhi Daredevils,04/05/13,10,863,860,6147,bat,0,863,598044
+Mumbai Indians vs. Chennai Super Kings,05/05/13,116,857,858,857,bat,0,857,598046
+Rajasthan Royals vs. Pune Warriors,05/05/13,172,864,6146,6146,bat,0,864,598047
+Kings XI Punjab vs. Royal Challengers Bangalore,06/05/13,130,859,862,859,field,0,859,598064
+Rajasthan Royals vs. Delhi Daredevils,07/05/13,172,864,860,6147,bat,0,864,598049
+Mumbai Indians vs. Kolkata Knight Riders,07/05/13,116,857,861,857,bat,0,857,598050
+Sunrisers Hyderabad vs. Chennai Super Kings,08/05/13,10,863,858,863,field,0,858,598051
+Kings XI Punjab vs. Rajasthan Royals,09/05/13,130,859,864,864,field,0,864,598052
+Pune Warriors vs. Kolkata Knight Riders,09/05/13,117,6146,861,861,bat,0,861,598053
+Delhi Daredevils vs. Royal Challengers Bangalore,10/05/13,18,860,862,6147,field,0,862,598054
+Pune Warriors vs. Mumbai Indians,11/05/13,117,6146,857,6146,bat,0,857,598055
+Kings XI Punjab vs. Sunrisers Hyderabad,11/05/13,130,859,863,859,field,0,863,598056
+Rajasthan Royals vs. Chennai Super Kings,12/05/13,172,864,858,864,field,0,864,598058
+Kolkata Knight Riders vs. Royal Challengers Bangalore,12/05/13,114,861,862,861,field,0,861,598057
+Mumbai Indians vs. Sunrisers Hyderabad,13/05/13,116,857,863,863,bat,0,857,598060
+Chennai Super Kings vs. Delhi Daredevils,14/05/13,109,858,860,858,bat,0,858,598062
+Royal Challengers Bangalore vs. Kings XI Punjab,14/05/13,112,862,859,859,field,0,859,598045
+Mumbai Indians vs. Rajasthan Royals,15/05/13,116,857,864,864,field,0,857,598063
+Kolkata Knight Riders vs. Pune Warriors,15/05/13,114,861,6146,861,field,0,6146,598061
+Kings XI Punjab vs. Delhi Daredevils,16/05/13,129,859,860,6147,field,0,859,598028
+Sunrisers Hyderabad vs. Rajasthan Royals,17/05/13,10,863,864,863,bat,0,863,598065
+Kings XI Punjab vs. Mumbai Indians,18/05/13,129,859,857,857,field,0,859,598066
+Royal Challengers Bangalore vs. Chennai Super Kings,18/05/13,112,862,858,858,field,0,862,598068
+Pune Warriors vs. Delhi Daredevils,19/05/13,117,6146,860,6146,bat,0,6146,598067
+Sunrisers Hyderabad vs. Kolkata Knight Riders,19/05/13,10,863,861,861,bat,0,863,598069
+Chennai Super Kings vs. Mumbai Indians,21/05/13,18,858,857,858,bat,0,858,598070
+Rajasthan Royals vs. Sunrisers Hyderabad,22/05/13,18,864,863,863,bat,0,864,598071
+Mumbai Indians vs. Rajasthan Royals,24/05/13,110,857,864,864,bat,0,857,598072
+Chennai Super Kings vs. Mumbai Indians,26/05/13,110,858,857,860,bat,0,857,598073
+Mumbai Indians vs. Kolkata Knight Riders,16/04/14,121,857,861,860,bat,0,861,729279
+Delhi Daredevils vs. Royal Challengers Bangalore,17/04/14,123,860,862,862,field,0,862,729281
+Sunrisers Hyderabad vs. Rajasthan Royals,18/04/14,121,863,864,864,field,0,864,729285
+Chennai Super Kings vs. Kings XI Punjab,18/04/14,121,858,859,858,bat,0,859,729283
+Royal Challengers Bangalore vs. Mumbai Indians,19/04/14,122,862,857,862,field,0,862,729287
+Kolkata Knight Riders vs. Delhi Daredevils,19/04/14,122,861,860,861,bat,0,860,729289
+Rajasthan Royals vs. Kings XI Punjab,20/04/14,123,864,859,859,field,0,859,729291
+Chennai Super Kings vs. Delhi Daredevils,21/04/14,121,858,860,858,bat,0,858,729293
+Kings XI Punjab vs. Sunrisers Hyderabad,22/04/14,123,859,863,863,field,0,859,729295
+Rajasthan Royals vs. Chennai Super Kings,23/04/14,122,864,858,864,field,0,858,729297
+Royal Challengers Bangalore vs. Kolkata Knight Riders,24/04/14,123,862,861,862,field,0,861,729299
+Chennai Super Kings vs. Mumbai Indians,25/04/14,122,858,857,857,bat,0,858,729303
+Sunrisers Hyderabad vs. Delhi Daredevils,25/04/14,122,863,860,863,bat,0,863,729301
+Kolkata Knight Riders vs. Kings XI Punjab,26/04/14,121,861,859,861,field,0,859,729307
+Rajasthan Royals vs. Royal Challengers Bangalore,26/04/14,121,864,862,864,field,0,864,729305
+Sunrisers Hyderabad vs. Chennai Super Kings,27/04/14,123,863,858,863,bat,0,858,729311
+Delhi Daredevils vs. Mumbai Indians,27/04/14,123,860,857,857,bat,0,860,729309
+Kings XI Punjab vs. Royal Challengers Bangalore,28/04/14,122,859,862,859,field,0,859,729313
+Kolkata Knight Riders vs. Rajasthan Royals,29/04/14,121,861,864,864,bat,0,864,729315
+Mumbai Indians vs. Sunrisers Hyderabad,30/04/14,122,857,863,857,field,0,863,729317
+Chennai Super Kings vs. Kolkata Knight Riders,02/05/14,114,858,861,864,bat,0,858,733971
+Mumbai Indians vs. Kings XI Punjab,03/05/14,116,857,859,859,bat,0,857,733973
+Delhi Daredevils vs. Rajasthan Royals,03/05/14,18,860,864,864,field,0,864,733975
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,04/05/14,112,862,863,862,field,0,862,733977
+Rajasthan Royals vs. Kolkata Knight Riders,05/05/14,272,864,861,861,field,0,864,733979
+Delhi Daredevils vs. Chennai Super Kings,05/05/14,18,860,858,858,field,0,858,733981
+Mumbai Indians vs. Royal Challengers Bangalore,06/05/14,116,857,862,862,field,0,857,733983
+Kings XI Punjab vs. Chennai Super Kings,07/05/14,132,859,858,858,field,0,859,733987
+Delhi Daredevils vs. Kolkata Knight Riders,07/05/14,18,860,861,6147,bat,0,861,733985
+Rajasthan Royals vs. Sunrisers Hyderabad,08/05/14,272,864,863,864,field,0,863,733989
+Royal Challengers Bangalore vs. Kings XI Punjab,09/05/14,112,862,859,862,field,0,859,733991
+Delhi Daredevils vs. Sunrisers Hyderabad,10/05/14,18,860,863,863,field,1,863,733993
+Mumbai Indians vs. Chennai Super Kings,10/05/14,116,857,858,858,field,0,858,733995
+Royal Challengers Bangalore vs. Rajasthan Royals,11/05/14,112,862,864,860,bat,0,864,733999
+Kings XI Punjab vs. Kolkata Knight Riders,11/05/14,132,859,861,861,field,0,861,733997
+Sunrisers Hyderabad vs. Mumbai Indians,12/05/14,10,863,857,863,bat,0,857,734001
+Chennai Super Kings vs. Rajasthan Royals,13/05/14,114,858,864,864,bat,0,858,734003
+Royal Challengers Bangalore vs. Delhi Daredevils,13/05/14,112,862,860,6147,field,0,862,734005
+Kolkata Knight Riders vs. Mumbai Indians,14/05/14,132,861,857,861,field,0,861,734009
+Sunrisers Hyderabad vs. Kings XI Punjab,14/05/14,10,863,859,859,field,0,859,734007
+Rajasthan Royals vs. Delhi Daredevils,15/05/14,272,864,860,6147,field,0,864,734011
+Chennai Super Kings vs. Royal Challengers Bangalore,18/05/14,114,858,862,858,bat,0,862,734013
+Sunrisers Hyderabad vs. Kolkata Knight Riders,18/05/14,10,863,861,863,bat,0,861,734015
+Delhi Daredevils vs. Kings XI Punjab,19/05/14,18,860,859,859,field,0,859,734019
+Rajasthan Royals vs. Mumbai Indians,19/05/14,272,864,857,857,bat,0,857,734017
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,20/05/14,10,863,862,862,bat,0,863,734021
+Kolkata Knight Riders vs. Chennai Super Kings,20/05/14,110,861,858,861,field,0,861,734023
+Kings XI Punjab vs. Mumbai Indians,21/05/14,130,859,857,857,field,0,857,734025
+Kolkata Knight Riders vs. Royal Challengers Bangalore,22/05/14,110,861,862,862,field,0,861,734027
+Chennai Super Kings vs. Sunrisers Hyderabad,22/05/14,114,858,863,863,field,0,863,734029
+Kings XI Punjab vs. Rajasthan Royals,23/05/14,130,859,864,864,field,0,859,734033
+Mumbai Indians vs. Delhi Daredevils,23/05/14,116,857,860,6147,field,0,857,734031
+Kolkata Knight Riders vs. Sunrisers Hyderabad,24/05/14,110,861,863,861,field,0,861,734037
+Royal Challengers Bangalore vs. Chennai Super Kings,24/05/14,112,862,858,858,field,0,858,734035
+Kings XI Punjab vs. Delhi Daredevils,25/05/14,130,859,860,859,field,0,859,734039
+Mumbai Indians vs. Rajasthan Royals,25/05/14,116,857,864,857,field,0,857,734041
+Kings XI Punjab vs. Kolkata Knight Riders,27/05/14,110,859,861,859,field,0,861,734043
+Chennai Super Kings vs. Mumbai Indians,28/05/14,162,858,857,858,field,0,858,734045
+Chennai Super Kings vs. Kings XI Punjab,30/05/14,116,858,859,858,field,0,859,734047
+Kolkata Knight Riders vs. Kings XI Punjab,01/06/14,112,861,859,861,field,0,861,734049
+Kolkata Knight Riders vs. Mumbai Indians,08/04/15,110,861,857,861,field,0,861,829705
+Chennai Super Kings vs. Delhi Daredevils,09/04/15,109,858,860,6147,field,0,858,829707
+Kings XI Punjab vs. Rajasthan Royals,10/04/15,117,859,864,860,field,0,864,829709
+Kolkata Knight Riders vs. Royal Challengers Bangalore,11/04/15,110,861,862,862,field,0,862,829713
+Chennai Super Kings vs. Sunrisers Hyderabad,11/04/15,109,858,863,858,bat,0,858,829711
+Delhi Daredevils vs. Rajasthan Royals,12/04/15,18,860,864,860,field,0,864,829715
+Mumbai Indians vs. Kings XI Punjab,12/04/15,116,857,859,857,field,0,859,829717
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,13/04/15,112,862,863,863,field,0,863,829719
+Rajasthan Royals vs. Mumbai Indians,14/04/15,272,864,857,857,bat,0,864,829721
+Kings XI Punjab vs. Delhi Daredevils,15/04/15,117,859,860,859,bat,0,860,829725
+Sunrisers Hyderabad vs. Rajasthan Royals,16/04/15,131,863,864,864,field,0,864,829727
+Mumbai Indians vs. Chennai Super Kings,17/04/15,116,857,858,857,bat,0,858,829729
+Sunrisers Hyderabad vs. Delhi Daredevils,18/04/15,131,863,860,6147,bat,0,860,829731
+Kings XI Punjab vs. Kolkata Knight Riders,18/04/15,117,859,861,861,field,0,861,829733
+Rajasthan Royals vs. Chennai Super Kings,19/04/15,272,864,858,858,bat,0,864,829735
+Royal Challengers Bangalore vs. Mumbai Indians,19/04/15,112,862,857,862,field,0,857,829737
+Delhi Daredevils vs. Kolkata Knight Riders,20/04/15,18,860,861,861,field,0,861,829739
+Rajasthan Royals vs. Kings XI Punjab,21/04/15,272,864,859,859,field,0,859,829741
+Sunrisers Hyderabad vs. Kolkata Knight Riders,22/04/15,131,863,861,861,field,1,863,829743
+Royal Challengers Bangalore vs. Chennai Super Kings,22/04/15,112,862,858,862,field,0,858,829745
+Delhi Daredevils vs. Mumbai Indians,23/04/15,18,860,857,857,field,0,860,829747
+Rajasthan Royals vs. Royal Challengers Bangalore,24/04/15,272,864,862,862,field,0,862,829749
+Mumbai Indians vs. Sunrisers Hyderabad,25/04/15,116,857,863,857,bat,0,857,829751
+Chennai Super Kings vs. Kings XI Punjab,25/04/15,109,858,859,858,bat,0,858,829753
+Delhi Daredevils vs. Royal Challengers Bangalore,26/04/15,18,860,862,862,field,0,862,829757
+Kings XI Punjab vs. Sunrisers Hyderabad,27/04/15,130,859,863,859,field,0,863,829759
+Chennai Super Kings vs. Kolkata Knight Riders,28/04/15,109,858,861,861,field,0,858,829765
+Royal Challengers Bangalore vs. Rajasthan Royals,29/04/15,112,862,864,864,field,0,,829763
+Kolkata Knight Riders vs. Chennai Super Kings,30/04/15,110,861,858,861,field,0,861,829723
+Mumbai Indians vs. Rajasthan Royals,01/05/15,116,857,864,864,field,0,857,829769
+Delhi Daredevils vs. Kings XI Punjab,01/05/15,18,860,859,6147,field,0,860,829767
+Sunrisers Hyderabad vs. Chennai Super Kings,02/05/15,10,863,858,858,field,0,863,829773
+Royal Challengers Bangalore vs. Kolkata Knight Riders,02/05/15,112,862,861,862,field,0,862,829771
+Kings XI Punjab vs. Mumbai Indians,03/05/15,130,859,857,857,bat,0,857,829775
+Rajasthan Royals vs. Delhi Daredevils,03/05/15,162,864,860,6147,field,0,864,829777
+Kolkata Knight Riders vs. Sunrisers Hyderabad,04/05/15,110,861,863,864,field,0,861,829781
+Chennai Super Kings vs. Royal Challengers Bangalore,04/05/15,109,858,862,858,bat,0,858,829779
+Mumbai Indians vs. Delhi Daredevils,05/05/15,116,857,860,6147,bat,0,857,829783
+Royal Challengers Bangalore vs. Kings XI Punjab,06/05/15,112,862,859,859,field,0,862,829785
+Rajasthan Royals vs. Sunrisers Hyderabad,07/05/15,162,864,863,864,field,0,863,829787
+Kolkata Knight Riders vs. Delhi Daredevils,07/05/15,110,861,860,861,bat,0,861,829761
+Chennai Super Kings vs. Mumbai Indians,08/05/15,109,858,857,858,bat,0,857,829789
+Kolkata Knight Riders vs. Kings XI Punjab,09/05/15,110,861,859,859,bat,0,861,829791
+Delhi Daredevils vs. Sunrisers Hyderabad,09/05/15,426,860,863,863,bat,0,863,829793
+Mumbai Indians vs. Royal Challengers Bangalore,10/05/15,116,857,862,862,bat,0,862,829795
+Chennai Super Kings vs. Rajasthan Royals,10/05/15,109,858,864,858,bat,0,858,829797
+Sunrisers Hyderabad vs. Kings XI Punjab,11/05/15,10,863,859,863,bat,0,863,829799
+Delhi Daredevils vs. Chennai Super Kings,12/05/15,426,860,858,858,bat,0,860,829801
+Kings XI Punjab vs. Royal Challengers Bangalore,13/05/15,130,859,862,862,field,0,859,829803
+Mumbai Indians vs. Kolkata Knight Riders,14/05/15,116,857,861,861,field,0,857,829805
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,15/05/15,10,863,862,863,bat,1,862,829807
+Kings XI Punjab vs. Chennai Super Kings,16/05/15,130,859,858,859,bat,0,858,829809
+Rajasthan Royals vs. Kolkata Knight Riders,16/05/15,162,864,861,864,bat,0,864,829811
+Sunrisers Hyderabad vs. Mumbai Indians,17/05/15,10,863,857,862,bat,0,857,829815
+Royal Challengers Bangalore vs. Delhi Daredevils,17/05/15,112,862,860,862,field,0,,829813
+Chennai Super Kings vs. Mumbai Indians,19/05/15,116,858,857,857,bat,0,857,829817
+Royal Challengers Bangalore vs. Rajasthan Royals,20/05/15,117,862,864,862,bat,0,862,829819
+Chennai Super Kings vs. Royal Challengers Bangalore,22/05/15,114,858,862,864,field,0,858,829821
+Mumbai Indians vs. Chennai Super Kings,24/05/15,110,857,858,858,field,0,857,829823
+Mumbai Indians vs. Rising Pune Supergiants,09/04/16,116,857,6144,857,bat,0,6144,980901
+Kolkata Knight Riders vs. Delhi Daredevils,10/04/16,110,861,860,861,field,0,861,980903
+Kings XI Punjab vs. Gujarat Lions,11/04/16,130,859,6145,6145,field,0,6145,980905
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,12/04/16,112,862,863,863,field,0,862,980907
+Kolkata Knight Riders vs. Mumbai Indians,13/04/16,110,861,857,857,field,0,857,980909
+Gujarat Lions vs. Rising Pune Supergiants,14/04/16,119,6145,6144,6144,bat,0,6145,980911
+Delhi Daredevils vs. Kings XI Punjab,15/04/16,18,860,859,6147,field,0,860,980913
+Sunrisers Hyderabad vs. Kolkata Knight Riders,16/04/16,10,863,861,863,bat,0,861,980915
+Mumbai Indians vs. Gujarat Lions,16/04/16,116,857,6145,6145,field,0,6145,980917
+Royal Challengers Bangalore vs. Delhi Daredevils,17/04/16,112,862,860,6147,field,0,860,980921
+Kings XI Punjab vs. Rising Pune Supergiants,17/04/16,130,859,6144,6144,bat,0,859,980919
+Sunrisers Hyderabad vs. Mumbai Indians,18/04/16,10,863,857,863,field,0,863,980923
+Kings XI Punjab vs. Kolkata Knight Riders,19/04/16,130,859,861,861,field,0,861,980925
+Mumbai Indians vs. Royal Challengers Bangalore,20/04/16,116,857,862,857,field,0,857,980927
+Gujarat Lions vs. Sunrisers Hyderabad,21/04/16,119,6145,863,863,field,0,863,980929
+Rising Pune Supergiants vs. Royal Challengers Bangalore,22/04/16,117,6144,862,864,field,0,862,980931
+Delhi Daredevils vs. Mumbai Indians,23/04/16,18,860,857,857,field,0,860,980933
+Sunrisers Hyderabad vs. Kings XI Punjab,23/04/16,10,863,859,863,field,0,863,980935
+Rising Pune Supergiants vs. Kolkata Knight Riders,24/04/16,117,6144,861,861,field,0,861,980939
+Gujarat Lions vs. Royal Challengers Bangalore,24/04/16,119,6145,862,862,bat,0,6145,980937
+Kings XI Punjab vs. Mumbai Indians,25/04/16,130,859,857,859,field,0,857,980941
+Sunrisers Hyderabad vs. Rising Pune Supergiants,26/04/16,10,863,6144,6144,field,1,6144,980943
+Delhi Daredevils vs. Gujarat Lions,27/04/16,18,860,6145,6147,field,0,6145,980945
+Mumbai Indians vs. Kolkata Knight Riders,28/04/16,116,857,861,857,field,0,857,980947
+Rising Pune Supergiants vs. Gujarat Lions,29/04/16,117,6144,6145,6145,field,0,6145,980949
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,30/04/16,10,863,862,862,field,0,863,980953
+Delhi Daredevils vs. Kolkata Knight Riders,30/04/16,18,860,861,861,field,0,860,980951
+Rising Pune Supergiants vs. Mumbai Indians,01/05/16,117,6144,857,862,field,0,857,980957
+Gujarat Lions vs. Kings XI Punjab,01/05/16,119,6145,859,6145,field,0,859,980955
+Royal Challengers Bangalore vs. Kolkata Knight Riders,02/05/16,112,862,861,861,field,0,861,980959
+Gujarat Lions vs. Delhi Daredevils,03/05/16,119,6145,860,6147,field,0,860,980961
+Kolkata Knight Riders vs. Kings XI Punjab,04/05/16,110,861,859,859,field,0,861,980963
+Delhi Daredevils vs. Rising Pune Supergiants,05/05/16,18,860,6144,6144,field,0,6144,980965
+Sunrisers Hyderabad vs. Gujarat Lions,06/05/16,10,863,6145,864,field,0,863,980967
+Kings XI Punjab vs. Delhi Daredevils,07/05/16,130,859,860,6147,field,0,859,980971
+Royal Challengers Bangalore vs. Rising Pune Supergiants,07/05/16,112,862,6144,862,field,0,862,980969
+Mumbai Indians vs. Sunrisers Hyderabad,08/05/16,131,857,863,857,field,0,863,980973
+Kolkata Knight Riders vs. Gujarat Lions,08/05/16,110,861,6145,6145,field,0,6145,980975
+Kings XI Punjab vs. Royal Challengers Bangalore,09/05/16,130,859,862,859,field,0,862,980977
+Rising Pune Supergiants vs. Sunrisers Hyderabad,10/05/16,131,6144,863,863,bat,0,863,980979
+Royal Challengers Bangalore vs. Mumbai Indians,11/05/16,112,862,857,857,field,0,857,980981
+Sunrisers Hyderabad vs. Delhi Daredevils,12/05/16,10,863,860,6147,field,0,860,980983
+Mumbai Indians vs. Kings XI Punjab,13/05/16,131,857,859,857,bat,0,859,980985
+Kolkata Knight Riders vs. Rising Pune Supergiants,14/05/16,110,861,6144,6144,bat,1,861,980989
+Royal Challengers Bangalore vs. Gujarat Lions,14/05/16,112,862,6145,6145,field,0,862,980987
+Mumbai Indians vs. Delhi Daredevils,15/05/16,131,857,860,6147,field,0,857,980993
+Kings XI Punjab vs. Sunrisers Hyderabad,15/05/16,130,859,863,859,bat,0,863,980991
+Kolkata Knight Riders vs. Royal Challengers Bangalore,16/05/16,110,861,862,862,field,0,862,980995
+Rising Pune Supergiants vs. Delhi Daredevils,17/05/16,131,6144,860,6144,field,1,6144,980997
+Royal Challengers Bangalore vs. Kings XI Punjab,18/05/16,112,862,859,859,field,1,862,980999
+Gujarat Lions vs. Kolkata Knight Riders,19/05/16,118,6145,861,6145,field,0,6145,981001
+Delhi Daredevils vs. Sunrisers Hyderabad,20/05/16,426,860,863,6147,field,0,860,981003
+Gujarat Lions vs. Mumbai Indians,21/05/16,118,6145,857,6145,field,0,6145,981007
+Rising Pune Supergiants vs. Kings XI Punjab,21/05/16,131,6144,859,859,bat,0,6144,981005
+Kolkata Knight Riders vs. Sunrisers Hyderabad,22/05/16,110,861,863,863,field,0,861,981009
+Delhi Daredevils vs. Royal Challengers Bangalore,22/05/16,426,860,862,862,field,0,862,981011
+Gujarat Lions vs. Royal Challengers Bangalore,24/05/16,112,6145,862,862,field,0,862,981013
+Sunrisers Hyderabad vs. Kolkata Knight Riders,25/05/16,18,863,861,861,field,0,863,981015
+Gujarat Lions vs. Sunrisers Hyderabad,27/05/16,18,6145,863,863,field,0,863,981017
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,29/05/16,112,862,863,863,bat,0,863,981019
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,05/04/17,10,863,862,862,field,0,863,1082591
+Rising Pune Supergiant vs. Mumbai Indians,06/04/17,117,6144,857,6144,field,0,6144,1082592
+Gujarat Lions vs. Kolkata Knight Riders,07/04/17,119,6145,861,861,field,0,861,1082593
+Kings XI Punjab vs. Rising Pune Supergiant,08/04/17,111,859,6144,859,field,0,859,1082594
+Royal Challengers Bangalore vs. Delhi Daredevils,08/04/17,112,862,860,862,bat,0,862,1082595
+Mumbai Indians vs. Kolkata Knight Riders,09/04/17,116,857,861,857,field,0,857,1082597
+Sunrisers Hyderabad vs. Gujarat Lions,09/04/17,10,863,6145,863,field,0,863,1082596
+Kings XI Punjab vs. Royal Challengers Bangalore,10/04/17,111,859,862,862,bat,0,859,1082598
+Rising Pune Supergiant vs. Delhi Daredevils,11/04/17,117,6144,860,6144,field,0,860,1082599
+Mumbai Indians vs. Sunrisers Hyderabad,12/04/17,116,857,863,857,field,0,857,1082600
+Kolkata Knight Riders vs. Kings XI Punjab,13/04/17,110,861,859,861,field,0,861,1082601
+Royal Challengers Bangalore vs. Mumbai Indians,14/04/17,112,862,857,857,field,0,857,1082602
+Gujarat Lions vs. Rising Pune Supergiant,14/04/17,119,6145,6144,6145,field,0,6145,1082603
+Delhi Daredevils vs. Kings XI Punjab,15/04/17,18,860,859,6147,bat,0,860,1082605
+Kolkata Knight Riders vs. Sunrisers Hyderabad,15/04/17,110,861,863,863,field,0,861,1082604
+Royal Challengers Bangalore vs. Rising Pune Supergiant,16/04/17,112,862,6144,862,field,0,6144,1082607
+Mumbai Indians vs. Gujarat Lions,16/04/17,116,857,6145,857,field,0,857,1082606
+Sunrisers Hyderabad vs. Kings XI Punjab,17/04/17,10,863,859,864,field,0,863,1082609
+Delhi Daredevils vs. Kolkata Knight Riders,17/04/17,18,860,861,6147,bat,0,861,1082608
+Gujarat Lions vs. Royal Challengers Bangalore,18/04/17,119,6145,862,6145,field,0,862,1082610
+Sunrisers Hyderabad vs. Delhi Daredevils,19/04/17,10,863,860,863,bat,0,863,1082611
+Kings XI Punjab vs. Mumbai Indians,20/04/17,111,859,857,857,field,0,857,1082612
+Kolkata Knight Riders vs. Gujarat Lions,21/04/17,110,861,6145,6145,field,0,6145,1082613
+Mumbai Indians vs. Delhi Daredevils,22/04/17,116,857,860,6147,field,0,857,1082614
+Rising Pune Supergiant vs. Sunrisers Hyderabad,22/04/17,117,6144,863,6144,field,0,6144,1082615
+Gujarat Lions vs. Kings XI Punjab,23/04/17,119,6145,859,6145,field,0,859,1082616
+Kolkata Knight Riders vs. Royal Challengers Bangalore,23/04/17,110,861,862,862,field,0,861,1082617
+Mumbai Indians vs. Rising Pune Supergiant,24/04/17,116,857,6144,857,field,0,6144,1082618
+Rising Pune Supergiant vs. Kolkata Knight Riders,26/04/17,117,6144,861,861,field,0,861,1082620
+Royal Challengers Bangalore vs. Gujarat Lions,27/04/17,112,862,6145,6145,field,0,6145,1082621
+Kings XI Punjab vs. Sunrisers Hyderabad,28/04/17,130,859,863,859,field,0,863,1082623
+Kolkata Knight Riders vs. Delhi Daredevils,28/04/17,110,861,860,861,field,0,861,1082622
+Rising Pune Supergiant vs. Royal Challengers Bangalore,29/04/17,117,6144,862,862,field,0,6144,1082624
+Gujarat Lions vs. Mumbai Indians,29/04/17,119,6145,857,6145,bat,0,857,1082625
+Kings XI Punjab vs. Delhi Daredevils,30/04/17,130,859,860,858,field,0,859,1082626
+Sunrisers Hyderabad vs. Kolkata Knight Riders,30/04/17,10,863,861,861,field,0,863,1082627
+Rising Pune Supergiant vs. Gujarat Lions,01/05/17,117,6144,6145,6144,field,0,6144,1082629
+Mumbai Indians vs. Royal Challengers Bangalore,01/05/17,116,857,862,862,bat,0,857,1082628
+Delhi Daredevils vs. Sunrisers Hyderabad,02/05/17,18,860,863,6147,field,0,860,1082630
+Kolkata Knight Riders vs. Rising Pune Supergiant,03/05/17,110,861,6144,6144,field,0,6144,1082631
+Delhi Daredevils vs. Gujarat Lions,04/05/17,18,860,6145,6147,field,0,860,1082632
+Royal Challengers Bangalore vs. Kings XI Punjab,05/05/17,112,862,859,862,field,0,859,1082633
+Sunrisers Hyderabad vs. Rising Pune Supergiant,06/05/17,10,863,6144,862,field,0,6144,1082634
+Delhi Daredevils vs. Mumbai Indians,06/05/17,18,860,857,6147,field,0,857,1082635
+Kings XI Punjab vs. Gujarat Lions,07/05/17,130,859,6145,6145,field,0,6145,1082637
+Royal Challengers Bangalore vs. Kolkata Knight Riders,07/05/17,112,862,861,861,field,0,861,1082636
+Sunrisers Hyderabad vs. Mumbai Indians,08/05/17,10,863,857,857,bat,0,863,1082638
+Kings XI Punjab vs. Kolkata Knight Riders,09/05/17,130,859,861,861,field,0,859,1082639
+Gujarat Lions vs. Delhi Daredevils,10/05/17,118,6145,860,6147,field,0,860,1082640
+Mumbai Indians vs. Kings XI Punjab,11/05/17,116,857,859,857,field,0,859,1082641
+Delhi Daredevils vs. Rising Pune Supergiant,12/05/17,18,860,6144,6147,bat,0,860,1082642
+Gujarat Lions vs. Sunrisers Hyderabad,13/05/17,118,6145,863,859,field,0,863,1082643
+Kolkata Knight Riders vs. Mumbai Indians,13/05/17,110,861,857,861,field,0,857,1082644
+Rising Pune Supergiant vs. Kings XI Punjab,14/05/17,117,6144,859,6144,field,0,6144,1082645
+Delhi Daredevils vs. Royal Challengers Bangalore,14/05/17,18,860,862,862,bat,0,862,1082646
+Mumbai Indians vs. Rising Pune Supergiant,16/05/17,116,857,6144,857,field,0,6144,1082647
+Sunrisers Hyderabad vs. Kolkata Knight Riders,17/05/17,112,863,861,861,field,1,861,1082648
+Mumbai Indians vs. Kolkata Knight Riders,19/05/17,112,857,861,857,field,0,857,1082649
+Mumbai Indians vs. Rising Pune Supergiant,21/05/17,10,857,6144,857,bat,0,857,1082650
+Mumbai Indians vs. Chennai Super Kings,07/04/18,116,857,858,858,field,0,858,1136561
+Kolkata Knight Riders vs. Royal Challengers Bangalore,08/04/18,110,861,862,861,field,0,861,1136563
+Kings XI Punjab vs. Delhi Daredevils,08/04/18,130,859,860,859,field,0,859,1136562
+Sunrisers Hyderabad vs. Rajasthan Royals,09/04/18,10,863,864,863,field,0,863,1136564
+Chennai Super Kings vs. Kolkata Knight Riders,10/04/18,109,858,861,858,field,0,858,1136565
+Rajasthan Royals vs. Delhi Daredevils,11/04/18,172,864,860,6147,field,1,864,1136566
+Sunrisers Hyderabad vs. Mumbai Indians,12/04/18,10,863,857,863,field,0,863,1136567
+Royal Challengers Bangalore vs. Kings XI Punjab,13/04/18,112,862,859,862,field,0,862,1136568
+Mumbai Indians vs. Delhi Daredevils,14/04/18,116,857,860,6147,field,0,860,1136569
+Kolkata Knight Riders vs. Sunrisers Hyderabad,14/04/18,110,861,863,863,field,0,863,1136570
+Kings XI Punjab vs. Chennai Super Kings,15/04/18,130,859,858,858,field,0,859,1136572
+Royal Challengers Bangalore vs. Rajasthan Royals,15/04/18,112,862,864,862,field,0,864,1136571
+Kolkata Knight Riders vs. Delhi Daredevils,16/04/18,110,861,860,6147,field,0,861,1136573
+Mumbai Indians vs. Royal Challengers Bangalore,17/04/18,116,857,862,862,field,0,857,1136574
+Rajasthan Royals vs. Kolkata Knight Riders,18/04/18,172,864,861,861,field,0,861,1136575
+Kings XI Punjab vs. Sunrisers Hyderabad,19/04/18,130,859,863,859,bat,0,859,1136576
+Chennai Super Kings vs. Rajasthan Royals,20/04/18,117,858,864,864,field,0,858,1136577
+Kolkata Knight Riders vs. Kings XI Punjab,21/04/18,110,861,859,859,field,1,859,1136578
+Royal Challengers Bangalore vs. Delhi Daredevils,21/04/18,112,862,860,862,field,0,862,1136579
+Rajasthan Royals vs. Mumbai Indians,22/04/18,172,864,857,857,bat,0,864,1136581
+Sunrisers Hyderabad vs. Chennai Super Kings,22/04/18,10,863,858,863,field,0,858,1136580
+Delhi Daredevils vs. Kings XI Punjab,23/04/18,18,860,859,6147,field,0,859,1136582
+Mumbai Indians vs. Sunrisers Hyderabad,24/04/18,116,857,863,857,field,0,863,1136583
+Royal Challengers Bangalore vs. Chennai Super Kings,25/04/18,112,862,858,858,field,0,858,1136584
+Sunrisers Hyderabad vs. Kings XI Punjab,26/04/18,10,863,859,859,field,0,863,1136585
+Delhi Daredevils vs. Kolkata Knight Riders,27/04/18,18,860,861,861,field,0,860,1136586
+Chennai Super Kings vs. Mumbai Indians,28/04/18,117,858,857,857,field,0,857,1136587
+Rajasthan Royals vs. Sunrisers Hyderabad,29/04/18,172,864,863,863,bat,0,863,1136588
+Royal Challengers Bangalore vs. Kolkata Knight Riders,29/04/18,112,862,861,861,field,0,861,1136589
+Chennai Super Kings vs. Delhi Daredevils,30/04/18,117,858,860,6147,field,0,858,1136590
+Royal Challengers Bangalore vs. Mumbai Indians,01/05/18,112,862,857,857,field,0,862,1136591
+Delhi Daredevils vs. Rajasthan Royals,02/05/18,18,860,864,864,field,1,860,1136592
+Kolkata Knight Riders vs. Chennai Super Kings,03/05/18,110,861,858,861,field,0,861,1136593
+Kings XI Punjab vs. Mumbai Indians,04/05/18,111,859,857,857,field,0,857,1136594
+Chennai Super Kings vs. Royal Challengers Bangalore,05/05/18,117,858,862,858,field,0,858,1136595
+Sunrisers Hyderabad vs. Delhi Daredevils,05/05/18,10,863,860,6147,bat,0,863,1136596
+Mumbai Indians vs. Kolkata Knight Riders,06/05/18,116,857,861,862,field,0,857,1136597
+Kings XI Punjab vs. Rajasthan Royals,06/05/18,111,859,864,859,field,0,859,1136598
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,07/05/18,10,863,862,862,field,0,863,1136599
+Rajasthan Royals vs. Kings XI Punjab,08/05/18,172,864,859,864,bat,0,864,1136600
+Kolkata Knight Riders vs. Mumbai Indians,09/05/18,110,861,857,861,field,0,857,1136601
+Delhi Daredevils vs. Sunrisers Hyderabad,10/05/18,18,860,863,6147,bat,0,863,1136602
+Rajasthan Royals vs. Chennai Super Kings,11/05/18,172,864,858,858,bat,0,864,1136603
+Delhi Daredevils vs. Royal Challengers Bangalore,12/05/18,18,860,862,862,field,0,862,1136605
+Kings XI Punjab vs. Kolkata Knight Riders,12/05/18,111,859,861,859,field,0,861,1136604
+Chennai Super Kings vs. Sunrisers Hyderabad,13/05/18,117,858,863,858,field,0,858,1136606
+Mumbai Indians vs. Rajasthan Royals,13/05/18,116,857,864,864,field,0,864,1136607
+Kings XI Punjab vs. Royal Challengers Bangalore,14/05/18,111,859,862,862,field,0,862,1136608
+Kolkata Knight Riders vs. Rajasthan Royals,15/05/18,110,861,864,861,field,0,861,1136609
+Mumbai Indians vs. Kings XI Punjab,16/05/18,116,857,859,859,field,0,857,1136610
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,17/05/18,112,862,863,863,field,0,862,1136611
+Delhi Daredevils vs. Chennai Super Kings,18/05/18,18,860,858,858,field,0,860,1136612
+Sunrisers Hyderabad vs. Kolkata Knight Riders,19/05/18,10,863,861,864,bat,0,861,1136614
+Rajasthan Royals vs. Royal Challengers Bangalore,19/05/18,172,864,862,864,bat,0,864,1136613
+Chennai Super Kings vs. Kings XI Punjab,20/05/18,117,858,859,858,field,0,858,1136616
+Delhi Daredevils vs. Mumbai Indians,20/05/18,18,860,857,6147,bat,0,860,1136615
+Sunrisers Hyderabad vs. Chennai Super Kings,22/05/18,116,863,858,858,field,0,858,1136617
+Kolkata Knight Riders vs. Rajasthan Royals,23/05/18,110,861,864,6145,field,0,861,1136618
+Kolkata Knight Riders vs. Sunrisers Hyderabad,25/05/18,110,861,863,861,field,0,863,1136619
+Chennai Super Kings vs. Sunrisers Hyderabad,27/05/18,116,858,863,858,field,0,858,1136620
+Chennai Super Kings vs. Royal Challengers Bangalore,23/03/19,109,858,862,858,field,0,858,1175356
+Kolkata Knight Riders vs. Sunrisers Hyderabad,24/03/19,110,861,863,861,field,0,861,1175357
+Mumbai Indians vs. Delhi Capitals,24/03/19,116,857,860,857,field,0,860,1175358
+Rajasthan Royals vs. Kings XI Punjab,25/03/19,172,864,859,864,field,0,859,1175359
+Delhi Capitals vs. Chennai Super Kings,26/03/19,18,860,858,860,bat,0,858,1175360
+Kolkata Knight Riders vs. Kings XI Punjab,27/03/19,110,861,859,859,field,0,861,1175361
+Royal Challengers Bangalore vs. Mumbai Indians,28/03/19,112,862,857,862,field,0,857,1175362
+Sunrisers Hyderabad vs. Rajasthan Royals,29/03/19,10,863,864,864,bat,0,863,1175363
+Kings XI Punjab vs. Mumbai Indians,30/03/19,130,859,857,859,field,0,859,1175364
+Delhi Capitals vs. Kolkata Knight Riders,30/03/19,18,860,861,860,field,0,860,1175365
+Chennai Super Kings vs. Rajasthan Royals,31/03/19,109,858,864,864,field,0,858,1175367
+Sunrisers Hyderabad vs. Royal Challengers Bangalore,31/03/19,10,863,862,862,field,0,863,1175366
+Kings XI Punjab vs. Delhi Capitals,01/04/19,130,859,860,860,field,0,859,1175368
+Rajasthan Royals vs. Royal Challengers Bangalore,02/04/19,172,864,862,864,field,0,864,1175369
+Mumbai Indians vs. Chennai Super Kings,03/04/19,116,857,858,858,field,0,857,1175370
+Delhi Capitals vs. Sunrisers Hyderabad,04/04/19,18,860,863,863,field,0,863,1175371
+Royal Challengers Bangalore vs. Kolkata Knight Riders,05/04/19,112,862,861,860,field,0,861,1175372
+Sunrisers Hyderabad vs. Mumbai Indians,06/04/19,10,863,857,864,field,0,857,1178394
+Chennai Super Kings vs. Kings XI Punjab,06/04/19,109,858,859,858,bat,0,858,1178393
+Rajasthan Royals vs. Kolkata Knight Riders,07/04/19,172,864,861,861,field,0,861,1178396
+Royal Challengers Bangalore vs. Delhi Capitals,07/04/19,112,862,860,860,field,0,860,1178395
+Kings XI Punjab vs. Sunrisers Hyderabad,08/04/19,130,859,863,859,field,0,859,1178397
+Chennai Super Kings vs. Kolkata Knight Riders,09/04/19,109,858,861,858,field,0,858,1178398
+Mumbai Indians vs. Kings XI Punjab,10/04/19,116,857,859,857,field,0,857,1178399
+Rajasthan Royals vs. Chennai Super Kings,11/04/19,172,864,858,858,field,0,858,1178400
+Kolkata Knight Riders vs. Delhi Capitals,12/04/19,110,861,860,860,field,0,860,1178401
+Mumbai Indians vs. Rajasthan Royals,13/04/19,116,857,864,864,field,0,864,1178402
+Kings XI Punjab vs. Royal Challengers Bangalore,13/04/19,130,859,862,862,field,0,862,1178403
+Kolkata Knight Riders vs. Chennai Super Kings,14/04/19,110,861,858,858,field,0,858,1178404
+Sunrisers Hyderabad vs. Delhi Capitals,14/04/19,10,863,860,863,field,0,860,1178405
+Mumbai Indians vs. Royal Challengers Bangalore,15/04/19,116,857,862,857,field,0,857,1178406
+Kings XI Punjab vs. Rajasthan Royals,16/04/19,130,859,864,862,field,0,859,1178407
+Sunrisers Hyderabad vs. Chennai Super Kings,17/04/19,10,863,858,858,bat,0,863,1178408
+Delhi Capitals vs. Mumbai Indians,18/04/19,18,860,857,862,bat,0,857,1178409
+Kolkata Knight Riders vs. Royal Challengers Bangalore,19/04/19,110,861,862,862,field,0,862,1178410
+Rajasthan Royals vs. Mumbai Indians,20/04/19,172,864,857,864,field,0,864,1178411
+Delhi Capitals vs. Kings XI Punjab,20/04/19,18,860,859,860,field,0,860,1178412
+Sunrisers Hyderabad vs. Kolkata Knight Riders,21/04/19,10,863,861,863,field,0,863,1178413
+Royal Challengers Bangalore vs. Chennai Super Kings,21/04/19,112,862,858,858,field,0,862,1178414
+Rajasthan Royals vs. Delhi Capitals,22/04/19,172,864,860,860,field,0,860,1178415
+Chennai Super Kings vs. Sunrisers Hyderabad,23/04/19,109,858,863,858,field,0,858,1178416
+Royal Challengers Bangalore vs. Kings XI Punjab,24/04/19,112,862,859,859,field,0,862,1178417
+Kolkata Knight Riders vs. Rajasthan Royals,25/04/19,110,861,864,864,field,0,864,1178418
+Chennai Super Kings vs. Mumbai Indians,26/04/19,109,858,857,858,field,0,857,1178419
+Rajasthan Royals vs. Sunrisers Hyderabad,27/04/19,172,864,863,864,field,0,864,1178420
+Delhi Capitals vs. Royal Challengers Bangalore,28/04/19,18,860,862,860,bat,0,860,1178421
+Kolkata Knight Riders vs. Mumbai Indians,28/04/19,110,861,857,857,field,0,861,1178422
+Sunrisers Hyderabad vs. Kings XI Punjab,29/04/19,10,863,859,859,field,0,863,1178423
+Royal Challengers Bangalore vs. Rajasthan Royals,30/04/19,112,862,864,864,field,0,,1178424
+Chennai Super Kings vs. Delhi Capitals,01/05/19,109,858,860,860,field,0,858,1178425
+Mumbai Indians vs. Sunrisers Hyderabad,02/05/19,116,857,863,857,bat,0,857,1178426
+Kings XI Punjab vs. Kolkata Knight Riders,03/05/19,130,859,861,861,field,0,861,1178427
+Royal Challengers Bangalore vs. Sunrisers Hyderabad,04/05/19,112,862,863,862,field,0,862,1178429
+Delhi Capitals vs. Rajasthan Royals,04/05/19,18,860,864,864,bat,0,860,1178428
+Mumbai Indians vs. Kolkata Knight Riders,05/05/19,116,857,861,857,field,0,857,1178431
+Kings XI Punjab vs. Chennai Super Kings,05/05/19,130,859,858,859,field,0,859,1178430
+Mumbai Indians vs. Chennai Super Kings,07/05/19,109,857,858,858,bat,0,857,1181764
+Delhi Capitals vs. Sunrisers Hyderabad,08/05/19,131,860,863,860,field,0,860,1181766
+Chennai Super Kings vs. Delhi Capitals,10/05/19,131,858,860,858,field,0,858,1181767
+Mumbai Indians vs. Chennai Super Kings,12/05/19,10,857,858,857,bat,0,857,1181768
